@@ -1,0 +1,65 @@
+Programming Language:
+It has certain rules and instruction to write a code.
+
+2 Types:
+1. High level programming language		=> Humans understandable language
+2. Low level programming language		 => Computer and Machin understandable language (0s and 1s 	-> Binary number)
+
+Javascript:
+High level programming language, Scripting Language, Mainly used on webpages.
+
+Interpreter:
+It will run the code one by one so here run time error will occur.
+
+History:
+*Javascript was developed by Brenden Eich in the year of 1995.
+*He was working Netscape as developer
+* Name changes:
+Mocha (May 1995)	-> LiveScript (Sep 1995)	-> Javascript(Dec 1995).
+* Java and Javascript both are same programming language
+* Within 6 months they changed the name 3 times.
+
+Tools:
+*VS code	=> used to write the code
+* Node.js	=> used to run the code
+
+to open file:
+open folder -> open file
+
+to save file:
+filename.js
+
+to print a specific line:
+console.log("");
+
+console	-> to display the information 
+log()	-> to print the information
+
+Command Line:
+1. Single Line Command
+2. Multi Line Command
+
+// single line command
+
+/*
+multi 
+line 
+command
+*/
+
+Automatic Semicolon Inserted - ASI
+
+Javascript Topics:
+1. Intro and Installation 
+2. Variable and its types
+3. Data types
+4. operators and its types
+5. function and its types
+6. string and its types
+7. array and its types
+8. decision making statement
+9. control flow statement
+10. object, class and constructor
+11. set time out
+12. call back and call back hell
+13. promise and promise all
